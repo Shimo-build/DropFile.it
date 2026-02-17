@@ -1,0 +1,5 @@
+{
+  "name": "DropDeploy",
+  "description": "A Netlify-style static site deployment tool using Firebase. Drag and drop folders or ZIPs to deploy instantly.",
+  "requestFramePermissions": []
+}
